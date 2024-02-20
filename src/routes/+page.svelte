@@ -7,6 +7,6 @@
 
 <div class="scroll-smooth w-full h-full">
     <Hero />
-    <Experience />
-    <Skills />
+    <!-- <Experience /> -->
+    <!-- <Skills /> -->
 </div>
