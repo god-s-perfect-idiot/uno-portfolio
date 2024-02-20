@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Fredoka", sans-serif;
+    height: 100vh;
+    background-color: #F3F0E0;
+    scroll-behavior: smooth;
+} 
+html {
+    scroll-behavior: smooth;
+}
